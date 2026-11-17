@@ -1,5 +1,7 @@
-{"updated":"2026-11-17T00:01:36Z",
-"ci":[],
+{"updated":"2026-11-17T00:01:56Z",
+"ci":[
+{"id":43983111439,"at":"2026-11-16T23:53:28Z","sha":"aa0407f7a","title":"Detail: the facts row and the badge describe the version Play starts","pr":1379,"conclusion":"success","attempt":1,"jobs":{"which gates apply":3,"host unit tests (hostsim)":248,"host python/shell/C gates":241,"host unit tests (default features)":406,"host lint + type-checks":242,"host harness tests":182,"armv7 cross-build and artifact assertions":476,"host checks (NOT a device gate)":5,"cross-build (armv7) + artifact assertions":3}}
+],
 "sim":[
 {"id":43983111539,"at":"2026-11-16T23:53:28Z","sha":"aa0407f7a","title":"Detail: the facts row and the badge describe the version Play starts","pr":1379,"conclusion":"success","attempt":1,"jobs":{"macOS simulator build + launch":475,"macOS tests against bundled FFmpeg and ASS":361,"Linux simulator build + launch":475,"Windows launcher syntax":18}}
 ],
