@@ -1,0 +1,9 @@
+{"updated":"2026-11-17T00:01:36Z",
+"ci":[],
+"sim":[
+{"id":43983111539,"at":"2026-11-16T23:53:28Z","sha":"aa0407f7a","title":"Detail: the facts row and the badge describe the version Play starts","pr":1379,"conclusion":"success","attempt":1,"jobs":{"macOS simulator build + launch":475,"macOS tests against bundled FFmpeg and ASS":361,"Linux simulator build + launch":475,"Windows launcher syntax":18}}
+],
+"nightly":[],
+"cancelled":{},
+"daily":[],
+"flaky":[]}
